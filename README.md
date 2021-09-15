@@ -7,3 +7,4 @@ expose the next routes:
     - /api/me
 
     The client.js file contains the client code.
+# jwt-auth
